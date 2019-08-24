@@ -85,8 +85,16 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+<<<<<<< HEAD
 @angular/material/autocomplete
 
+=======
+<<<<<<< HEAD
+@angular/material/autocomplete
+
+=======
+>>>>>>> a824601693037ffc5714c9e31ed29dbf614a21a5
+>>>>>>> addcab6d5b8a53bbb888d97a09cef4985f28b28e
 @angular/material/button
 
 @angular/material/core
@@ -113,9 +121,18 @@ MIT
 @angular/router
 MIT
 
+<<<<<<< HEAD
 @angular/service-worker
 MIT
 
+=======
+<<<<<<< HEAD
+@angular/service-worker
+MIT
+
+=======
+>>>>>>> a824601693037ffc5714c9e31ed29dbf614a21a5
+>>>>>>> addcab6d5b8a53bbb888d97a09cef4985f28b28e
 core-js
 MIT
 Copyright (c) 2014-2019 Denis Pushkarev
